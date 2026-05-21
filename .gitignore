@@ -1,0 +1,21 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Сгенерированные данные (база и JSON'ы)
+bmw_cars.db
+sync_cars.json
+cars.json
+
+# IDE
+.vscode/
+.idea/
+
+# Прочее
+*.log
